@@ -1,0 +1,16 @@
+﻿question,optionA,optionB,optionC,optionD,answer
+p5.js中用來建立畫布的函式是哪一個？,createCanvas(),makeCanvas(),canvasCreate(),newCanvas(),A
+p5.js中用來設定背景顏色的函式是哪一個？,fill(),background(),color(),paint(),B
+p5.js中用來繪製矩形的函式是哪一個？,box(),squareBox(),rect(),rectangle(),C
+p5.js中用來繪製圓形的函式是哪一個？,circle(),round(),ellipseBox(),drawCircle(),A
+p5.js中用來繪製橢圓形的函式是哪一個？,oval(),ellipse(),roundShape(),ellipseShape(),B
+p5.js中用來設定文字大小的函式是哪一個？,fontSize(),textSize(),sizeText(),setText(),B
+p5.js中用來顯示文字的函式是哪一個？,showText(),write(),text(),printText(),C
+p5.js中用來設定填滿顏色的函式是哪一個？,background(),stroke(),fill(),colorFill(),C
+p5.js中用來設定外框顏色的函式是哪一個？,border(),stroke(),outline(),lineColor(),B
+p5.js中用來設定外框粗細的函式是哪一個？,strokeWeight(),lineWeight(),borderSize(),weightStroke(),A
+p5.js中用來取得滑鼠水平座標的變數是哪一個？,mouseY,mousePosition,mouseX,cursorX,C
+p5.js中用來取得滑鼠垂直座標的變數是哪一個？,mouseX,mouseY,cursorY,positionY,B
+p5.js中只會在程式開始時執行一次的函式是哪一個？,draw(),start(),setup(),begin(),C
+p5.js中會持續重複執行的函式是哪一個？,setup(),draw(),loopStart(),repeat(),B
+p5.js中用來畫直線的函式是哪一個？,line(),drawLine(),straight(),segment(),A

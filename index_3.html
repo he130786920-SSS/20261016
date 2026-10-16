@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8">
+  <!-- 讓手機、平板與桌機依照視窗尺寸顯示內容 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <title>p5.js 簡易指令練習測驗</title>
+
+  <!-- 預先連線至 Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- 載入指定的英文字型與繁體中文字型 -->
+  <link href="https://fonts.googleapis.com/css2?family=Isometra&family=LXGW+WenKai+Mono+TC&display=swap" rel="stylesheet">
+
+  <!-- 載入 p5.js 1.11.1 -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.11.1/p5.min.js"></script>
+  <!-- 載入測驗主程式 -->
+  <script src="sketch.js"></script>
+
+  <style>
+    /* 讓畫布貼齊視窗並避免頁面捲動干擾觸控操作 */
+    html,
+    body {
+      width: 100%;
+      height: 100%;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background: #bc6c25;
+      touch-action: none;
+    }
+
+    /* 移除 canvas 的 inline 元素空白 */
+    canvas {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+</body>
+</html>
